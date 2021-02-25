@@ -1,4 +1,4 @@
-## [THC - Terraria (NPC) Happiness Calculator](https://kgello.me/TerrariaHappiness)
+## [THC - Terraria (NPC) Happiness Calculator](https://kgello.me/THC)
 
 A rudimentary tool for quicky figuring out shop price multipliers for Terraria NPCs. Implements mechanics from Terraria 1.4.1.2
 * Features responsive design that looks good and works well on a wide range of devices
